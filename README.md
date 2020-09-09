@@ -1,3 +1,3 @@
 # Customer segmentation
 
-An example of K-Means clustering for customer segmentation
+An example of Clustering techniques for customer segmentation
