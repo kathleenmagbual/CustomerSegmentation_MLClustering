@@ -1,3 +1,5 @@
 # Customer segmentation
 
-An example of Clustering techniques for customer segmentation
+Application of Categorical clustering techniques for customer segmentation
+- KModes
+- KPrototype (A work in progress)
